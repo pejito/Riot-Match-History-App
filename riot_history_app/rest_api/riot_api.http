@@ -1,0 +1,12 @@
+GET {{baseUrl}}tft/league/v1/master?api_key={{auth}}
+Accept: application/json
+###
+GET {{baseUrl}}tft/league/v1/grandmaster?api_key={{auth}}
+Accept: application/json
+
+###
+
+GET {{baseUrl}}tft/league/v1/challenger?api_key={{auth}}
+Accept: application/json
+
+###
